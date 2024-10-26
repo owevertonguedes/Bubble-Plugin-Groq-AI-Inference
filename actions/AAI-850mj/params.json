@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Get Models",
+    "return_value": {
+        "AAJ": {
+            "caption": "models",
+            "is_list": true,
+            "name": "models",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

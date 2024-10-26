@@ -1,0 +1,36 @@
+{
+    "category": "plugins",
+    "display": "Chat Completions",
+    "fields": {
+        "AAR": {
+            "caption": "prompt",
+            "default_val": "Explain the importance of fast language models",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "content",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAV": {
+            "caption": "model",
+            "default_val": "llama3-70b-8192",
+            "editor": "DynamicValue",
+            "long_text": false,
+            "name": "model",
+            "options": "user,creator",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAW": {
+            "caption": "response",
+            "is_list": false,
+            "name": "message",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

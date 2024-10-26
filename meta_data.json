@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "artificial intelligence (AI)",
+        "1": "web scraping",
+        "2": "chat"
+    },
+    "data_tracked": false,
+    "demo_page": "https://wecodeless.site/plugins/Groq-AI-Inference",
+    "description": "Groq AI Integration Plugin\n\nThis plugin allows you to integrate Groq AI's powerful language models directly into your Bubble applications. With this plugin, you can easily access various AI functionalities such as obtaining a list of available models and generating chat completions. The latest models available include LLaMA3 8b, LLaMA3 70b, Mixtral 8x7b, Gemma 7b, Gemma2 9b, and Whisper. Whether you need real-time processing, improved user experience, or enhanced language understanding, Groq AI's models can significantly enhance your application's capabilities.",
+    "image": "//meta-q.cdn.bubble.io/f1721014478220x580386446283057300/groq-logo.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Groq AI Inference",
+    "plugin_instructions": "How to Use the Groq AI Integration Plugin\n\nSign Up: Go to Groq Console and create an account.\nCreate API Key: Once logged in, navigate to API Keys to create a new API Key.\nConfigure the Plugin: In your Bubble application, go to the plugin settings and insert the API Key you created.\nNow you're ready to use Groq AI's features in your Bubble workflows. Enjoy enhanced AI capabilities in your application!",
+    "sa_node_version": 18
+}
